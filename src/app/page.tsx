@@ -12,7 +12,6 @@ export default function Home() {
       <Skills />
       <Projects />
       <Contact />
-      {/* We will drop the About, Skills, Projects, and Contact sections here next */}
     </main>
   );
 }
